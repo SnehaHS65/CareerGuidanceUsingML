@@ -1,0 +1,37 @@
+D:\Academic 2019-2020\IEEE Projects\Mental Health Analysis of College Students\Project\educationalProject\educationalProject\bin\educationalProject.dll
+D:\Academic 2019-2020\IEEE Projects\Mental Health Analysis of College Students\Project\educationalProject\educationalProject\bin\educationalProject.pdb
+D:\Academic 2019-2020\IEEE Projects\Mental Health Analysis of College Students\Project\educationalProject\educationalProject\obj\Debug\educationalProject.dll
+D:\Academic 2019-2020\IEEE Projects\Mental Health Analysis of College Students\Project\educationalProject\educationalProject\obj\Debug\educationalProject.pdb
+D:\Academic 2019-2020\IEEE Projects\Mental Health Analysis of College Students\Project\educationalProject\educationalProject\obj\Debug\educationalProject.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\NIE\Job Prediction Project\educationalProject\educationalProject\bin\educationalProject.dll
+D:\Academic 2019-2020\Projects\NIE\Job Prediction Project\educationalProject\educationalProject\bin\educationalProject.pdb
+D:\Academic 2019-2020\Projects\NIE\Job Prediction Project\educationalProject\educationalProject\obj\Debug\educationalProject.dll
+D:\Academic 2019-2020\Projects\NIE\Job Prediction Project\educationalProject\educationalProject\obj\Debug\educationalProject.pdb
+D:\Academic 2019-2020\Projects\NIE\Job Prediction Project\educationalProject\educationalProject\obj\Debug\educationalProject.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\NIE\Job Prediction Project\Jagruthi Final Copy\educationalProject\educationalProject\bin\educationalProject.dll
+D:\Academic 2019-2020\Projects\NIE\Job Prediction Project\Jagruthi Final Copy\educationalProject\educationalProject\bin\educationalProject.pdb
+D:\Academic 2019-2020\Projects\NIE\Job Prediction Project\Jagruthi Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.dll
+D:\Academic 2019-2020\Projects\NIE\Job Prediction Project\Jagruthi Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.pdb
+D:\Academic 2019-2020\Projects\NIE\Job Prediction Project\Jagruthi Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Final Copy\educationalProject\educationalProject\bin\educationalProject.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Final Copy\educationalProject\educationalProject\bin\educationalProject.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.pdb
+D:\Academic 2021-2022\PROJECTS\GSSS\Carrier Guidance\Final Copy\educationalProject\educationalProject\bin\educationalProject.dll
+D:\Academic 2021-2022\PROJECTS\GSSS\Carrier Guidance\Final Copy\educationalProject\educationalProject\bin\educationalProject.pdb
+D:\Academic 2021-2022\PROJECTS\GSSS\Carrier Guidance\Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.dll
+D:\Academic 2021-2022\PROJECTS\GSSS\Carrier Guidance\Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.pdb
+D:\Academic 2021-2022\PROJECTS\GSSS\Carrier Guidance\Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy\educationalProject\educationalProject\bin\educationalProject.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy\educationalProject\educationalProject\bin\educationalProject.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy\educationalProject\educationalProject\obj\Debug\educationalProject.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy NEW\educationalProject\educationalProject\bin\educationalProject.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy NEW\educationalProject\educationalProject\bin\educationalProject.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy NEW\educationalProject\educationalProject\obj\Debug\educationalProject.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy NEW\educationalProject\educationalProject\obj\Debug\educationalProject.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy NEW EE\educationalProject\educationalProject\bin\educationalProject.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy NEW EE\educationalProject\educationalProject\bin\educationalProject.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy NEW EE\educationalProject\educationalProject\obj\Debug\educationalProject.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Carrier Guidance\Sneha Final Copy NEW EE\educationalProject\educationalProject\obj\Debug\educationalProject.pdb

@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8F59A4D0-0ED2-432E-9906-8C2B9C9FA6EA}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>educationalProject</RootNamespace>
+    <AssemblyName>educationalProject</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AddStudents.aspx" />
+    <Content Include="AdminAccount.aspx" />
+    <Content Include="css\nivo-slider-theme.css" />
+    <Content Include="css\responsive.css" />
+    <Content Include="css\style.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="frmModel.aspx" />
+    <Content Include="frmResults.aspx" />
+    <Content Include="img\about\1.jpg" />
+    <Content Include="img\about\2.jpg" />
+    <Content Include="img\apple-touch-icon.png" />
+    <Content Include="img\background\bg1.jpg" />
+    <Content Include="img\background\slider1.jpg" />
+    <Content Include="img\blog\1.jpg" />
+    <Content Include="img\blog\2.jpg" />
+    <Content Include="img\blog\3.jpg" />
+    <Content Include="img\blog\4.jpg" />
+    <Content Include="img\blog\5.jpg" />
+    <Content Include="img\blog\6.jpg" />
+    <Content Include="img\blog\b02.jpg" />
+    <Content Include="img\contact-us.png" />
+    <Content Include="img\ebsl_section_courses.jpg" />
+    <Content Include="img\ed1.jpg" />
+    <Content Include="img\ed2.jpg" />
+    <Content Include="img\ed3.jpg" />
+    <Content Include="img\ed4.jpg" />
+    <Content Include="img\ed5.jpg" />
+    <Content Include="img\EditIcon.jpg" />
+    <Content Include="img\education2.jpg" />
+    <Content Include="img\education5.png" />
+    <Content Include="img\education6.jpg" />
+    <Content Include="img\educational1.jpg" />
+    <Content Include="img\Edu_Banner1.jpg" />
+    <Content Include="img\Edu_Banner2.jpg" />
+    <Content Include="img\Edu_Banner3.jpg" />
+    <Content Include="img\Edu_Banner4.jpg" />
+    <Content Include="img\Edu_Banner5.jpg" />
+    <Content Include="img\Edu_Banner6.jpg" />
+    <Content Include="img\favicon.png" />
+    <Content Include="img\folder-down-icon.jpg" />
+    <Content Include="img\folder-edit-icon.jpg" />
+    <Content Include="img\folder-process-icon.jpg" />
+    <Content Include="img\image3.jpg" />
+    <Content Include="img\Index5.jpg" />
+    <Content Include="img\Index6.jpg" />
+    <Content Include="img\portfolio\1.jpg" />
+    <Content Include="img\portfolio\2.jpg" />
+    <Content Include="img\portfolio\3.jpg" />
+    <Content Include="img\portfolio\4.jpg" />
+    <Content Include="img\portfolio\5.jpg" />
+    <Content Include="img\portfolio\6.jpg" />
+    <Content Include="img\preloader.gif" />
+    <Content Include="img\slider\slider1 - Copy.jpg" />
+    <Content Include="img\slider\slider1.jpg" />
+    <Content Include="img\slider\slider2.jpg" />
+    <Content Include="img\slider\slider3.jpg" />
+    <Content Include="img\team\1.jpg" />
+    <Content Include="img\team\2.jpg" />
+    <Content Include="img\team\3.jpg" />
+    <Content Include="img\team\4.jpg" />
+    <Content Include="img\venubox\close.gif" />
+    <Content Include="img\venubox\next.gif" />
+    <Content Include="img\venubox\preload-circle.png" />
+    <Content Include="img\venubox\preload-dots.png" />
+    <Content Include="img\venubox\preload-ios.png" />
+    <Content Include="img\venubox\preload-quads.png" />
+    <Content Include="img\venubox\preload.png" />
+    <Content Include="img\venubox\prev.gif" />
+    <Content Include="js\main.js" />
+    <Content Include="lib\animate\animate.css" />
+    <Content Include="lib\animate\animate.min.css" />
+    <Content Include="lib\appear\jquery.appear.js" />
+    <Content Include="lib\bootstrap\css\bootstrap.css" />
+    <Content Include="lib\bootstrap\css\bootstrap.min.css" />
+    <Content Include="lib\bootstrap\js\bootstrap.js" />
+    <Content Include="lib\bootstrap\js\bootstrap.min.js" />
+    <Content Include="lib\easing\easing.js" />
+    <Content Include="lib\easing\easing.min.js" />
+    <Content Include="lib\font-awesome\css\font-awesome.css" />
+    <Content Include="lib\font-awesome\css\font-awesome.min.css" />
+    <Content Include="lib\isotope\isotope.pkgd.js" />
+    <Content Include="lib\isotope\isotope.pkgd.min.js" />
+    <Content Include="lib\jquery\jquery.min.js" />
+    <Content Include="lib\knob\jquery.knob.js" />
+    <Content Include="lib\nivo-slider\css\nivo-slider.css" />
+    <Content Include="lib\nivo-slider\img\arrows-2.png" />
+    <Content Include="lib\nivo-slider\img\arrows.png" />
+    <Content Include="lib\nivo-slider\img\bullets-2.png" />
+    <Content Include="lib\nivo-slider\img\bullets.png" />
+    <Content Include="lib\nivo-slider\img\loading-2.gif" />
+    <Content Include="lib\nivo-slider\img\loading.gif" />
+    <Content Include="lib\nivo-slider\js\jquery.nivo.slider.js" />
+    <Content Include="lib\owlcarousel\owl.carousel.css" />
+    <Content Include="lib\owlcarousel\owl.carousel.min.js" />
+    <Content Include="lib\owlcarousel\owl.transitions.css" />
+    <Content Include="lib\parallax\parallax.js" />
+    <Content Include="lib\venobox\venobox.css" />
+    <Content Include="lib\venobox\venobox.min.js" />
+    <Content Include="lib\wow\wow.js" />
+    <Content Include="lib\wow\wow.min.js" />
+    <Content Include="PostQueries.aspx" />
+    <Content Include="PredictionModule.aspx" />
+    <Content Include="Queries.aspx" />
+    <Content Include="SendReply.aspx" />
+    <Content Include="Signout.aspx" />
+    <Content Include="StudentAccount.aspx" />
+    <Content Include="StudentHome.aspx" />
+    <Content Include="StudentJobPrediction.aspx" />
+    <Content Include="TestingDataset.aspx" />
+    <Content Include="TrainingDataset.aspx" />
+    <Content Include="UserLogin.aspx" />
+    <Content Include="ViewStudents.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddStudents.aspx.cs">
+      <DependentUpon>AddStudents.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddStudents.aspx.designer.cs">
+      <DependentUpon>AddStudents.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminAccount.aspx.cs">
+      <DependentUpon>AdminAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminAccount.aspx.designer.cs">
+      <DependentUpon>AdminAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMasterpage.Master.cs">
+      <DependentUpon>AdminMasterpage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminMasterpage.Master.designer.cs">
+      <DependentUpon>AdminMasterpage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="BLL.cs" />
+    <Compile Include="ClassRules.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DL.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DL.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmModel.aspx.cs">
+      <DependentUpon>frmModel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmModel.aspx.designer.cs">
+      <DependentUpon>frmModel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmResults.aspx.cs">
+      <DependentUpon>frmResults.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmResults.aspx.designer.cs">
+      <DependentUpon>frmResults.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MainMasterpage.Master.cs">
+      <DependentUpon>MainMasterpage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MainMasterpage.Master.designer.cs">
+      <DependentUpon>MainMasterpage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="PostQueries.aspx.cs">
+      <DependentUpon>PostQueries.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PostQueries.aspx.designer.cs">
+      <DependentUpon>PostQueries.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PredictionModule.aspx.cs">
+      <DependentUpon>PredictionModule.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PredictionModule.aspx.designer.cs">
+      <DependentUpon>PredictionModule.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Queries.aspx.cs">
+      <DependentUpon>Queries.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Queries.aspx.designer.cs">
+      <DependentUpon>Queries.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SendReply.aspx.cs">
+      <DependentUpon>SendReply.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SendReply.aspx.designer.cs">
+      <DependentUpon>SendReply.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Signout.aspx.cs">
+      <DependentUpon>Signout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Signout.aspx.designer.cs">
+      <DependentUpon>Signout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StudentAccount.aspx.cs">
+      <DependentUpon>StudentAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StudentAccount.aspx.designer.cs">
+      <DependentUpon>StudentAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StudentHome.aspx.cs">
+      <DependentUpon>StudentHome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StudentHome.aspx.designer.cs">
+      <DependentUpon>StudentHome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StudentJobPrediction.aspx.cs">
+      <DependentUpon>StudentJobPrediction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StudentJobPrediction.aspx.designer.cs">
+      <DependentUpon>StudentJobPrediction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StudentMasterpage.Master.cs">
+      <DependentUpon>StudentMasterpage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StudentMasterpage.Master.designer.cs">
+      <DependentUpon>StudentMasterpage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="TestingDataset.aspx.cs">
+      <DependentUpon>TestingDataset.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestingDataset.aspx.designer.cs">
+      <DependentUpon>TestingDataset.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TrainingDataset.aspx.cs">
+      <DependentUpon>TrainingDataset.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TrainingDataset.aspx.designer.cs">
+      <DependentUpon>TrainingDataset.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserLogin.aspx.cs">
+      <DependentUpon>UserLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserLogin.aspx.designer.cs">
+      <DependentUpon>UserLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewStudents.aspx.cs">
+      <DependentUpon>ViewStudents.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewStudents.aspx.designer.cs">
+      <DependentUpon>ViewStudents.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdminMasterpage.Master" />
+    <None Include="DL.xsc">
+      <DependentUpon>DL.xsd</DependentUpon>
+    </None>
+    <None Include="DL.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DL.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DL.xss">
+      <DependentUpon>DL.xsd</DependentUpon>
+    </None>
+    <Content Include="MainMasterpage.Master" />
+    <None Include="Files\ActualDatasetCS.xls" />
+    <None Include="Files\ActualDatasetEC.xls" />
+    <None Include="Files\ActualDatasetEE.xls" />
+    <None Include="Files\ActualDatasetME.xls" />
+    <None Include="Files\TestingDatasetCS.xls" />
+    <None Include="Files\TestingDatasetEC.xls" />
+    <None Include="Files\TestingDatasetEE.xls" />
+    <None Include="Files\TestingDatasetME.xls" />
+    <None Include="Files\TrainingDatasetCS.xls" />
+    <None Include="Files\TrainingDatasetEC.xls" />
+    <None Include="Files\TrainingDatasetEE.xls" />
+    <None Include="Files\TrainingDatasetME.xls" />
+    <None Include="lib\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="lib\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="lib\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="lib\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="lib\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="lib\font-awesome\fonts\fontawesome-webfont.eot" />
+    <None Include="lib\font-awesome\fonts\fontawesome-webfont.svg" />
+    <None Include="lib\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <None Include="lib\font-awesome\fonts\fontawesome-webfont.woff" />
+    <None Include="lib\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <None Include="lib\font-awesome\fonts\FontAwesome.otf" />
+    <None Include="lib\nivo-slider\img\arrow_left.svg" />
+    <None Include="lib\nivo-slider\img\arrow_right.svg" />
+    <Content Include="StudentMasterpage.Master" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2397</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
